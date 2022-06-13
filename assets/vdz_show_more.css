@@ -1,0 +1,17 @@
+/*
+ * @ author ( Zikiy Vadim )
+ * @ site http://online-services.org.ua
+ * @ VDZ Show More Plugin styles
+ * @ copyright Copyright (C) 2016 All rights reserved.
+*/
+.vdz_show_more .vdz_sm_content {
+  display: none; }
+  .vdz_show_more .vdz_sm_content.vdz_sm_content_show {
+    display: block; }
+.vdz_show_more .vdz_sm_btn {
+  display: inline-block;
+  cursor: pointer; }
+  .vdz_show_more .vdz_sm_btn.vdz_sm_btn_hide {
+    display: none  !important; }
+
+/*# sourceMappingURL=vdz_show_more.css.map */

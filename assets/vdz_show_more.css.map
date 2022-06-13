@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;EAKE;AAIA,8BAAe;EACb,OAAO,EAAE,IAAI;EACb,kDAAqB;IACnB,OAAO,EAAE,KAAK;AAIlB,0BAAW;EACT,OAAO,EAAE,YAAY;EACrB,MAAM,EAAE,OAAO;EAEb,0CAAiB;IACf,OAAO,EAAE,gBAAgB",
+"sources": ["vdz_show_more.scss"],
+"names": [],
+"file": "vdz_show_more.css"
+}
